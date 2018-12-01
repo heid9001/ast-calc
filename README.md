@@ -1,11 +1,11 @@
 # bin_tree_infix
 
-#Tokens available:
+Tokens available:
 +,-
 *,/
 ^
 
-#Digits requirements:
+Digits requirements:
 0-9 
 no sign
 
